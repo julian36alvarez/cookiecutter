@@ -28,6 +28,11 @@ cookiecutter https://github.com/julian36alvarez/cookiecutter.git
 ```
 
 
+```bash
+conda env create --file environment.yml
+```
+    
+
 ## Estructura de directorios y archivos resultantes
 
     {{ cookiecutter.project_slug }}
