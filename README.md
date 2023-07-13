@@ -1,4 +1,4 @@
-# Cookiecuter Personal 
+# Cookiecuter Julian 
 
 plantilla personalizada utilizando cookiecutter.
 
